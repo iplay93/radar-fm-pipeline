@@ -42,6 +42,7 @@ project-root/
 ├── scripts/           # Executable entry points (train, eval, export)
 ├── utils/             # Shared utilities (reproducibility, logging)
 └── tests/             # Unit tests and data pipeline integrity checks
+```
 
 ## Key Features
 
