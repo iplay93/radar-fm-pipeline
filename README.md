@@ -42,6 +42,7 @@ project-root/
 ├── scripts/           # Executable entry points (train, eval, export)
 ├── utils/             # Shared utilities (reproducibility, logging)
 └── tests/             # Unit tests and data pipeline integrity checks
+<<<<<<< HEAD
 
 ## Key Features
 
@@ -72,3 +73,5 @@ Each component follows a well defined interface, enabling efficient experimentat
 ## Summary
 
 radar-fm-pipeline provides a scalable and maintainable foundation for wearable foundation models by treating data, models, tasks, and deployment as a single system rather than isolated components.
+=======
+>>>>>>> efaaea577f5fd0f794976cae07e2218de611fd4e
